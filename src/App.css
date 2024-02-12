@@ -13,7 +13,8 @@ body{
 
 #pokedex-heading{
   margin: 0 auto;
-  letter-spacing: 5px;
+  letter-spacing: 6px;
+  font-style: italic;
   
 }
 
